@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://c.cofowhs.cn/sitemap.xml
